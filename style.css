@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&display=swap');
+
+body {
+  font-family: 'Nuoso Sil';
+  background-color: white;
+  margin: 0px 0px;
+}
+
+html {
+  background-color: rgb(red, green, blue);
+}
+
+h1 {
+  color: rgb(red, green, blue)
+}
+
+h2 {
+  color: rgb(red, green, blue);
+}
+
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.card-profile > img {
+  height: 120px;
+  border-radius: 50%
+}
+
+.card-white {
+  background-color: white;
+  padding: 24px;
+  width: 600px;
+  margin: 24p auto;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.btn-blue {
+  background-color: blue;
+  color: azure;
+  padding: 8px 24px;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgb(red, green, blue)
+}
+
+.display-inline > li {
+  display: inline;
+  list-style: none;
+}
